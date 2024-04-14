@@ -8,40 +8,41 @@ Welcome to the "Learn Django in 20 Minutes!" project repository, inspired by the
 
 ### Clone the Repository:
 
-bash
-<button><svg><path></path></svg><span>Copy code</span><span></span></button>
+```bash
 git clone https://github.com/HerreraCarlos81/django_techwithtim.git
+```
 
 ### Navigate to the Project Directory:
 
-bash
-<button><svg><path></path></svg><span>Copy code</span><span></span></button>
+```bash
 cd django_techwithtim
+```
 
 ### Set Up a Virtual Environment (Optional but Recommended):
 
-bash
-<button><svg><path></path></svg><span>Copy code</span><span></span></button>
+```bash
 python3 -m venv env
 source env/bin/activate  # Activate the virtual environment (Linux/Mac)
+```
 
 ### Install Dependencies:
 
-bash
-<button><svg><path></path></svg><span>Copy code</span><span></span></button>
+```bash
 pip install -r requirements.txt
+```
 
 ### Run the Django Server:
 
-bash
-<button><svg><path></path></svg><span>Copy code</span><span></span></button>
+```bash
 python manage.py runserver
+```
 
-### Access the Development Server: Open a browser and visit http://127.0.0.1:8000/ to view your Django application.
+### Access the Development Server: 
+Open a browser and visit http://127.0.0.1:8000/ to view your Django application.
 
 ### Resources:
 
-Video Tutorial Transcript: [Refer to the video transcript for detailed instructions.](https://www.youtube.com/watch?v=nGIg40xs9e4)
+Video Tutorial: [Tech with Tim: Django 20 minutes](https://www.youtube.com/watch?v=nGIg40xs9e4)
 Source Code: Explore the provided Django script snippets within the project.
 
 Connect with me: [Reach out](https://carlosherrera.carrd.co).
